@@ -64,3 +64,5 @@ The global carbon credit market is projected to grow to **$250B by 2030**. Afric
 A future where **every African clean energy or land-use project can easily validate its carbon impact**, access global markets, and secure sustainable financing.
 
 **Thero = Climate Impact Made Verifiable.**
+
+Will update this readme as we move with the project
